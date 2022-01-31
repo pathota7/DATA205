@@ -4,3 +4,4 @@
   - Programming Editor
   - Command Line Interface
   - Version Control System (Git)
+  - And a lot of coffee, and twinkies!
